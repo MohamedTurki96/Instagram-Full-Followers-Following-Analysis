@@ -1,4 +1,4 @@
-### ✅ Features of this **full script**:
+###  Features of this **full script**:
 
 1. Works for **private and public accounts you follow**.
 2. Scrapes **all followers and following**.
